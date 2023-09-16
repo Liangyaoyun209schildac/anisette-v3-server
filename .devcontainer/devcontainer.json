@@ -1,0 +1,9 @@
+{
+  "image": "dadoum/anisette-v3-server",
+  "features": {
+    "forwardPorts":"[localhost:6969]"
+  },
+  {
+    "name":"anisette-v3"
+  }
+}
